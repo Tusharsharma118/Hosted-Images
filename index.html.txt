@@ -1,0 +1,8 @@
+<html>
+<head><title> Hosted Images</title>
+</head>
+
+<body>
+This Site has been hosted for images only
+</body>
+</html>
